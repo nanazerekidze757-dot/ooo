@@ -1,0 +1,38 @@
+.body{
+background-color: rgb(93, 59, 14);
+}
+.childs{
+   background-color: rgb(242, 247, 247);
+padding: 100px;
+border-radius: 8px;
+
+}
+.container{
+    display: flex;
+    gap:90px
+    align-items: center;
+}
+.jl{
+   background-color: rgb(238, 247, 247);
+padding: 100px;
+border-radius: 8px;
+margin-left: 20px;
+
+}
+h1{
+text-align: center;
+}
+p{
+    text-align: center;
+}
+.btns{
+    background-color: blue;
+    border-radius: 8px;
+    width: 100px;
+    height: 40px;
+}
+.btn{
+    border-radius: 8px;
+    width: 100px;
+    height: 40px;
+}
